@@ -1,0 +1,18 @@
+Aula - 15.09.2018
+
+	Assunto:
+	- Posicionamento
+	- Layout
+	- Expley Flex / Expley Grid
+
+1. primeiro criar um repositorio do GITHUB;
+2. abrir o DOS (GitBECHI) do GIT;  ( ele esta relacionado ao aplicativo GIT, o qual é instalado no computador ).
+	comando:  git config --global user.name
+		  esse comando identifica se tem algum usuário já logado no GIT local.
+
+	1. inicializando o progeto com o GIT INIT.
+	   comando:	git init
+
+	2. lincar o projeto ao repositorio que se encontra no github
+	   comando:	git remote add origin <colocar a url do repositorio que se encontra no GITHUB>
+	
