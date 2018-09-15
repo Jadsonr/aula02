@@ -15,4 +15,20 @@ Aula - 15.09.2018
 
 	2. lincar o projeto ao repositorio que se encontra no github
 	   comando:	git remote add origin <colocar a url do repositorio que se encontra no GITHUB>
+
+	
+
+	COMANDOS GIT:
+
+	git commit -m 'nomeDoCommit'	- define o nome do commit
+	git status			- mostra o(s) projetos e pasta vinculadas ao repositorio
+
+	Git clone
+	Git add
+	
+	
+
+
+	FETCH 	- envia a atualização/alteração só do documento o qual foi alterado.
+	PUSH 	- envia tudoas as atualização/alterações para o projeto origen
 	

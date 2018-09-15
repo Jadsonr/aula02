@@ -1,0 +1,55 @@
+body {
+    background:  #ffff66;
+}
+
+form {
+    padding: 2rem 0;
+    width: 33%;
+    background:  #ffffff;
+
+    /* Uma forma de centralizar a tela login */
+    /*
+    position: relative;
+    top: 50%;
+    left: 50%;
+    margin: -100px 0 0 -100px;        [ centralizando os eixos 
+    border:  1px solid red;           [ colocando uma borda vermelha para visualizar a posição 
+    width: 200px;                     [ deslocando para direita 
+    height: 200px;                    [ deslocando para esquerda 
+    */
+
+}
+
+img {
+    height: 90px;                       /* define o tamanho da imagem */
+    margin-bottom: 1rem;                /* espaço do final da imagem para o campo email */
+}
+
+input {
+        height: 40px;
+        border: 1px solid #cccccc;
+        text-indent: 1rem;              /* colocando espaço pra iniciar a digitar na caixa referente ao email. */
+}
+
+input[type="email"] {
+    border-radius: 6px 6px 0 0;
+    border-bottom: none;
+}
+
+input[type="password"] {
+    border-radius: 0 0 6px 6px;
+    margin-bottom: 1rem;
+}
+
+button {
+    border: none;                   /* tirando a bordar do botão */
+    border-radius: 25px;
+    text-transform: uppercase;      /* colocando a fonte em maiusculo */
+    font-size: .65rem;
+    padding: .5rem 1.2rem;
+    background: darkblue;
+    color: white;
+
+
+}
+

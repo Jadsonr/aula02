@@ -1,0 +1,17 @@
+* {
+    margin:  0;
+    padding: 0;
+}
+/* definindo o tamanho do formulario para com largura e altura -*/
+html,
+body{
+    width: 100vw;
+    height: 100vh;
+}
+
+.center{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
